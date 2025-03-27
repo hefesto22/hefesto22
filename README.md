@@ -22,7 +22,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="30"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="30"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
     </td>
     <td align="center">
@@ -52,16 +52,6 @@
 
 ---
 
-## ✨ Proyectos recientes
-
-- Sistema de lavandería por libras (Laravel + Bootstrap)
-- Cámara de turismo (Laravel + React)
-- Blog sobre memoria virtual (WordPress)
-- Gestión de negocios con subida de imágenes (Laravel + Inertia)
-- Apps móviles (Flutter + Firebase)
-
----
-
 ## 📊 Stats
 
 <p align="center">
@@ -74,7 +64,7 @@
 ## 📬 Contacto
 
 📧 olympohefesto@gmail.com  
-🌐 [LinkedIn (opcional)](https://linkedin.com/in/hefesto22)
+🌐 [LinkedIn](https://linkedin.com/in/hefesto22)
 
 ---
 
