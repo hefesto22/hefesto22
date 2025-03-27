@@ -7,7 +7,7 @@
 
 ---
 
-<p align="center"><i>“Como Hefesto en su fragua, forjo líneas de código que dan vida a ideas. Cada función es una chispa, cada sistema, una obra digna del Olimpo.”</i> 🔥⚙️</p>
+<p align="center"><i>“Como Hefesto en su fragua, forjo líneas de código que dan vida a ideas. Cada función es una chispa, cada sistema, una obra digna del Olimpo.”</i> </p>
 
 ---
 
