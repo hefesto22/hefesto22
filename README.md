@@ -1,4 +1,4 @@
-<h1 align="center">⚡🔥 HEFESTO22 🔥⚡</h1>
+<h1 align="center"> HEFESTO22 </h1>
 <h3 align="center">Ingeniero en Sistemas | Full Stack Developer | Forjador de Código</h3>
 
 <p align="center">
