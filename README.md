@@ -68,7 +68,6 @@
 ## 📬 Contacto
 
 📧 olympohefesto@gmail.com  
-🌐 [LinkedIn](https://linkedin.com/in/hefesto22)
 
 ---
 
