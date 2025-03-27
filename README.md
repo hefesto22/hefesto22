@@ -63,9 +63,4 @@
 
 ## 📬 Contacto
 
-📧 olympohefesto@gmail.com  
-🌐 [LinkedIn](https://linkedin.com/in/hefesto22)
-
----
-
-> “Donde los demás ven líneas de código, yo veo herramientas de poder.” ⚡
+📧 olympohefesto
