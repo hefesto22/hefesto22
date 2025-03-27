@@ -7,6 +7,10 @@
 
 ---
 
+<p align="center"><i>“Como Hefesto en su fragua, forjo líneas de código que dan vida a ideas. Cada función es una chispa, cada sistema, una obra digna del Olimpo.”</i> 🔥⚙️</p>
+
+---
+
 ## ⚙️ Stack Tecnológico
 
 <table align="center">
@@ -63,4 +67,9 @@
 
 ## 📬 Contacto
 
-📧 olympohefesto
+📧 olympohefesto@gmail.com  
+🌐 [LinkedIn](https://linkedin.com/in/hefesto22)
+
+---
+
+> “Donde los demás ven líneas de código, yo veo herramientas de poder.” ⚡
